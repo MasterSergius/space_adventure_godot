@@ -2,7 +2,7 @@
 Space adventure game using Godot engine
 
 
-**GAME IS UNDER DEVELOPMENT
+**GAME IS UNDER DEVELOPMENT**
 
 Description:
 
